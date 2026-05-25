@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "convolift@tikenlabs.github.io": {
+      "updates": [
+        {
+          "version": "0.7.1",
+          "update_link": "https://tikenlabs.github.io/convolift-updates/releases/convolift-0.7.1.xpi"
+        }
+      ]
+    }
+  }
+}
